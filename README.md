@@ -12,6 +12,6 @@ Usage;
 
 ---
 
-#### Install requirements
-#### Start server
-#### use python user_cli.py
+#### Install requirements `pip install -r requirements.txt`
+#### Start server `bash server.sh`
+#### Call service : `python user_cli.py` 
