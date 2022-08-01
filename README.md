@@ -15,3 +15,5 @@ Usage;
 #### Install requirements `pip install -r requirements.txt`
 #### Start server `bash server.sh`
 #### Call service : `python user_cli.py` 
+
+*Developed for Linux/Mac - run in WSL on Windows
